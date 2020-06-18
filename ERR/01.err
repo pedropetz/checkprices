@@ -1,0 +1,14 @@
+--2020-06-18 14:36:15--  https://www.kuantokusta.pt/informatica/Componentes/Memorias/Corsair-16GB-Vengeance-LPX-2x-8GB-DDR4-3000MHz-PC4-24000-CL15-Black-CMK16GX4M2B3000C15-p-1-432387
+Resolving www.kuantokusta.pt (www.kuantokusta.pt)... 2.17.217.169, 2.16.108.24
+Connecting to www.kuantokusta.pt (www.kuantokusta.pt)|2.17.217.169|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘01.in’
+
+     0K .......... .......... .......... .......... ..........  950K
+    50K .......... .......... .......... .......... .......... 1013K
+   100K .......... .......... .......... .......... .......... 1.78M
+   150K .......... ...                                         6.10M=0.1s
+
+2020-06-18 14:36:16 (1.21 MB/s) - ‘01.in’ saved [167022]
+

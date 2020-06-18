@@ -1,0 +1,15 @@
+--2020-06-18 14:40:51--  https://www.kuantokusta.pt/informatica/Armazenamento-Interno/Discos-SSD/Crucial-500GB-MX500-2-5-3D-TLC-SATA-III-CT500MX500SSD1-p-1-538424
+Resolving www.kuantokusta.pt (www.kuantokusta.pt)... 2.17.217.169, 2.16.108.24
+Connecting to www.kuantokusta.pt (www.kuantokusta.pt)|2.17.217.169|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘16.in’
+
+     0K .......... .......... .......... .......... .......... 1.83M
+    50K .......... .......... .......... .......... .......... 1.61M
+   100K .......... .......... .......... .......... .......... 2.13M
+   150K .......... .......... .......... .......... .......... 1.94M
+   200K .........                                              8.52M=0.1s
+
+2020-06-18 14:40:53 (1.93 MB/s) - ‘16.in’ saved [214185]
+

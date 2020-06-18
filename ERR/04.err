@@ -1,0 +1,18 @@
+--2020-06-18 14:37:12--  https://www.kuantokusta.pt/informatica/Armazenamento-Interno/Discos-SSD/Kingston-480GB-A400-2-5-SATA-III-TLC-SSD-SA400S37-480G-p-1-517172
+Resolving www.kuantokusta.pt (www.kuantokusta.pt)... 2.17.47.41, 2.17.47.57
+Connecting to www.kuantokusta.pt (www.kuantokusta.pt)|2.17.47.41|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘04.in’
+
+     0K .......... .......... .......... .......... .......... 1.30M
+    50K .......... .......... .......... .......... .......... 1.45M
+   100K .......... .......... .......... .......... .......... 1.28M
+   150K .......... .......... .......... .......... .......... 2.43M
+   200K .......... .......... .......... .......... .......... 2.93M
+   250K .......... .......... .......... .......... .......... 3.74M
+   300K .......... .......... .......... .......... .......... 3.81M
+   350K .......... .......... ...                              5.38M=0.2s
+
+2020-06-18 14:37:13 (2.07 MB/s) - ‘04.in’ saved [382563]
+

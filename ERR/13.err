@@ -1,0 +1,17 @@
+--2020-06-18 14:40:05--  https://www.kuantokusta.pt/informatica/Armazenamento-Interno/Discos-SSD/Western-Digital-120GB-Green-2-5-SSD-SATA3-WDS120G2G0A-p-1-537438
+Resolving www.kuantokusta.pt (www.kuantokusta.pt)... 2.17.217.169, 2.16.108.24
+Connecting to www.kuantokusta.pt (www.kuantokusta.pt)|2.17.217.169|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘13.in’
+
+     0K .......... .......... .......... .......... .......... 1.82M
+    50K .......... .......... .......... .......... .......... 2.09M
+   100K .......... .......... .......... .......... .......... 2.15M
+   150K .......... .......... .......... .......... .......... 3.25M
+   200K .......... .......... .......... .......... .......... 3.77M
+   250K .......... .......... .......... .......... .......... 4.01M
+   300K                                                        1818G=0.1s
+
+2020-06-18 14:40:06 (2.60 MB/s) - ‘13.in’ saved [308176]
+

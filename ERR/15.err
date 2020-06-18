@@ -1,0 +1,14 @@
+--2020-06-18 14:40:39--  https://www.kuantokusta.pt/informatica/Armazenamento-Interno/Discos-SSD/Gigabyte-120GB-2-5-SSD-SATA-6-0Gb-s-GP-GSTFS31120GNTD-p-1-563391
+Resolving www.kuantokusta.pt (www.kuantokusta.pt)... 2.16.108.24, 2.17.217.169
+Connecting to www.kuantokusta.pt (www.kuantokusta.pt)|2.16.108.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘15.in’
+
+     0K .......... .......... .......... .......... .......... 1.80M
+    50K .......... .......... .......... .......... .......... 2.28M
+   100K .......... .......... .......... .......... .......... 3.72M
+   150K .......... .......... ....                             3.82M=0.07s
+
+2020-06-18 14:40:40 (2.51 MB/s) - ‘15.in’ saved [178359]
+

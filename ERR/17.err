@@ -1,0 +1,14 @@
+--2020-06-18 14:41:07--  https://www.kuantokusta.pt/informatica/Armazenamento-Interno/Discos-Rigidos/Seagate-4TB-IronWolf-Pro-3-5-SATA-III-7200rpm-ST4000NE001-p-1-607677
+Resolving www.kuantokusta.pt (www.kuantokusta.pt)... 2.16.108.24, 2.17.217.169
+Connecting to www.kuantokusta.pt (www.kuantokusta.pt)|2.16.108.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘17.in’
+
+     0K .......... .......... .......... .......... .......... 1.77M
+    50K .......... .......... .......... .......... .......... 2.32M
+   100K .......... .......... .......... .......... .......... 3.73M
+   150K .......... .......... ........                         3.68M=0.07s
+
+2020-06-18 14:41:08 (2.52 MB/s) - ‘17.in’ saved [183148]
+

@@ -1,0 +1,17 @@
+--2020-06-18 14:37:38--  https://www.kuantokusta.pt/informatica/Armazenamento-Interno/Discos-SSD/Kingston-960GB-A400-2-5-SATA-III-TLC-SSD-SA400S37-960G-p-1-543609
+Resolving www.kuantokusta.pt (www.kuantokusta.pt)... 2.17.47.41, 2.17.47.57
+Connecting to www.kuantokusta.pt (www.kuantokusta.pt)|2.17.47.41|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘05.in’
+
+     0K .......... .......... .......... .......... .......... 1.86M
+    50K .......... .......... .......... .......... .......... 1.84M
+   100K .......... .......... .......... .......... .......... 2.06M
+   150K .......... .......... .......... .......... .......... 3.69M
+   200K .......... .......... .......... .......... .......... 3.56M
+   250K .......... .......... .......... .......... .......... 3.67M
+   300K .......... .......... .......... ....                  3.81M=0.1s
+
+2020-06-18 14:37:38 (2.60 MB/s) - ‘05.in’ saved [342553]
+

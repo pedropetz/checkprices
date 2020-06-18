@@ -1,0 +1,17 @@
+--2020-06-17 22:46:33--  https://www.kuantokusta.pt/informatica/Armazenamento-Interno/Discos-Rigidos/Seagate-2TB-BarraCuda-7200rpm-3-5-SATA-III-256MB-ST2000DM008-p-1-565084
+Resolving www.kuantokusta.pt (www.kuantokusta.pt)... 2.16.108.24, 2.17.217.169
+Connecting to www.kuantokusta.pt (www.kuantokusta.pt)|2.16.108.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘9.in’
+
+     0K .......... .......... .......... .......... .......... 1.89M
+    50K .......... .......... .......... .......... .......... 2.00M
+   100K .......... .......... .......... .......... .......... 2.14M
+   150K .......... .......... .......... .......... .......... 3.87M
+   200K .......... .......... .......... .......... .......... 3.29M
+   250K .......... .......... .......... .......... .......... 3.89M
+   300K ....                                                   8408G=0.1s
+
+2020-06-17 22:46:34 (2.63 MB/s) - ‘9.in’ saved [311714]
+

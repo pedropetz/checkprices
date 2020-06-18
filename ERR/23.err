@@ -1,0 +1,14 @@
+--2020-06-18 14:42:12--  https://www.kuantokusta.pt/informatica/Comunicacao/Access-Point/Ubiquiti-Unifi-AC-Lite-UAP-AC-LITE-p-1-444306
+Resolving www.kuantokusta.pt (www.kuantokusta.pt)... 2.16.108.24, 2.17.217.169
+Connecting to www.kuantokusta.pt (www.kuantokusta.pt)|2.16.108.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘23.in’
+
+     0K .......... .......... .......... .......... .......... 1.88M
+    50K .......... .......... .......... .......... .......... 1.98M
+   100K .......... .......... .......... .......... .......... 3.36M
+   150K .......... .......... .......... ......                3.33M=0.08s
+
+2020-06-18 14:42:13 (2.40 MB/s) - ‘23.in’ saved [190986]
+

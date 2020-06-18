@@ -1,0 +1,16 @@
+--2020-06-17 22:46:14--  https://www.kuantokusta.pt/informatica/Armazenamento-Interno/Discos-SSD/Samsung-1TB-860-QVO-2-5-SATA-III-SSD-MZ-76Q1T0BW-p-1-575460
+Resolving www.kuantokusta.pt (www.kuantokusta.pt)... 2.16.108.24, 2.17.217.169
+Connecting to www.kuantokusta.pt (www.kuantokusta.pt)|2.16.108.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘8.in’
+
+     0K .......... .......... .......... .......... .......... 1.79M
+    50K .......... .......... .......... .......... .......... 1.73M
+   100K .......... .......... .......... .......... .......... 3.44M
+   150K .......... .......... .......... .......... .......... 3.20M
+   200K .......... .......... .......... .......... .......... 4.09M
+   250K .....                                                  8.35M=0.1s
+
+2020-06-17 22:46:14 (2.56 MB/s) - ‘8.in’ saved [261298]
+

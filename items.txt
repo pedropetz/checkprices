@@ -1,0 +1,27 @@
+01,Corsair 16GB Vengeance LPX (2x 8GB) DDR4 CMK16GX4M2B3000C15,https://www.kuantokusta.pt/informatica/Componentes/Memorias/Corsair-16GB-Vengeance-LPX-2x-8GB-DDR4-3000MHz-PC4-24000-CL15-Black-CMK16GX4M2B3000C15-p-1-432387
+02,Nintendo Switch Neon Blue/Red V2,https://www.kuantokusta.pt/videojogos/Consolas/Nintendo-Switch-Neon-Blue-Red-V2-p-10-116841
+03,Xiaomi Mi Band 4 Black,https://www.kuantokusta.pt/desporto-lazer/Cardio-Training/Relogios-Cardios-e-Pulsometros/Xiaomi-Mi-Band-4-Black-p-7-773414
+04,SSD Kingston 480GB A400 2.5,https://www.kuantokusta.pt/informatica/Armazenamento-Interno/Discos-SSD/Kingston-480GB-A400-2-5-SATA-III-TLC-SSD-SA400S37-480G-p-1-517172
+05,SSD Kingston 960GB A400 2.5,https://www.kuantokusta.pt/informatica/Armazenamento-Interno/Discos-SSD/Kingston-960GB-A400-2-5-SATA-III-TLC-SSD-SA400S37-960G-p-1-543609
+06,SSD SanDisk Plus 1TB,https://www.kuantokusta.pt/informatica/Armazenamento-Interno/Discos-SSD/SanDisk-Plus-1TB-MLC-SATA-SDSSDA-1T00-G26-p-1-565994
+07,SSD Crucial 1TB MX500 2.5,https://www.kuantokusta.pt/informatica/Armazenamento-Interno/Discos-SSD/Crucial-1TB-MX500-2-5-3D-TLC-SATA-III-CT1000MX500SSD1-p-1-538423
+08,SSD Samsung 1TB 860 QVO 2.5,https://www.kuantokusta.pt/informatica/Armazenamento-Interno/Discos-SSD/Samsung-1TB-860-QVO-2-5-SATA-III-SSD-MZ-76Q1T0BW-p-1-575460
+09,Seagate 2TB BarraCuda 7200rpm 3.5 ST2000DM008,https://www.kuantokusta.pt/informatica/Armazenamento-Interno/Discos-Rigidos/Seagate-2TB-BarraCuda-7200rpm-3-5-SATA-III-256MB-ST2000DM008-p-1-565084
+10,Seagate 2TB IronWolf SATAIII 5900,https://www.kuantokusta.pt/informatica/Armazenamento-Interno/Discos-Rigidos/Seagate-2TB-IronWolf-SATAIII-64MB-6Gb-S-p-1-488379
+11,SSD Kingston 120GB SSD A400 2.5,https://www.kuantokusta.pt/informatica/Armazenamento-Interno/Discos-SSD/Kingston-120GB-SSD-A400-2-5-SATA-III-SA400S37-120G-p-1-515026
+12,SSD BlueRay 120GB SSD 2.5,https://www.kuantokusta.pt/informatica/Armazenamento-Interno/Discos-SSD/BlueRay-120GB-SSD-2-5-M7B-SATA-III-SSD120GM7B-p-1-544238
+13,SSD Western Digital 120GB Green 2.5,https://www.kuantokusta.pt/informatica/Armazenamento-Interno/Discos-SSD/Western-Digital-120GB-Green-2-5-SSD-SATA3-WDS120G2G0A-p-1-537438
+14,SSD Crucial 120GB BX500,https://www.kuantokusta.pt/informatica/Armazenamento-Interno/Discos-SSD/Crucial-120GB-BX500-3D-SATA-CT120BX500SSD1-p-1-565041
+15,SSD Gigabyte 120GB 2.5,https://www.kuantokusta.pt/informatica/Armazenamento-Interno/Discos-SSD/Gigabyte-120GB-2-5-SSD-SATA-6-0Gb-s-GP-GSTFS31120GNTD-p-1-563391
+16,SSD Crucial 500GB MX500 2.5,https://www.kuantokusta.pt/informatica/Armazenamento-Interno/Discos-SSD/Crucial-500GB-MX500-2-5-3D-TLC-SATA-III-CT500MX500SSD1-p-1-538424
+17,Seagate 4TB IronWolf Pro 3.5,https://www.kuantokusta.pt/informatica/Armazenamento-Interno/Discos-Rigidos/Seagate-4TB-IronWolf-Pro-3-5-SATA-III-7200rpm-ST4000NE001-p-1-607677
+18,Western Digital 4TB 3.5,https://www.kuantokusta.pt/informatica/Armazenamento-Interno/Discos-Rigidos/Western-Digital-4TB-3-5-SATA-256MB-WD4003FFBX-p-1-548829
+19,Phanteks Enthoo Pro Black,https://www.kuantokusta.pt/informatica/Caixas/Caixas/Phanteks-Enthoo-Pro-Black-p-1-366901
+20,Gigabyte GeForce GTX1050 TI OC 4GB LP,https://www.kuantokusta.pt/informatica/Placas-Video/Placas-Graficas/Gigabyte-GeForce-GTX1050-TI-OC-4GB-LP-GDDR5-PCI-E-GV-N105TOC-4GL-p-1-511890
+21,MSI GeForce GTX1050 TI 4GT LP 4GB,https://www.kuantokusta.pt/informatica/Placas-Video/Placas-Graficas/MSI-GeForce-GTX1050-TI-4GT-LP-4GB-GDDR5-PCI-E-p-1-504759
+22,Powercolor Radeon RX550 Red Dragon 4GB,https://www.kuantokusta.pt/informatica/Placas-Video/Placas-Graficas/Powercolor-Radeon-RX550-Red-Dragon-4GB-GDDR5-PCI-E-AXRX-550-4GBD5-DH-p-1-645862
+23,Unifi AC Lite,https://www.kuantokusta.pt/informatica/Comunicacao/Access-Point/Ubiquiti-Unifi-AC-Lite-UAP-AC-LITE-p-1-444306
+24,MSI GeForce GTX1650 4GT LP 4GB,https://www.kuantokusta.pt/informatica/Placas-Video/Placas-Graficas/MSI-GeForce-GTX1650-4GT-LP-4GB-GDDR5-PCI-E-912-V809-3212-p-1-622692
+25,Ngs Teclado,https://www.kuantokusta.pt/informatica/Perifericos/Teclados-e-Packs/Ngs-Teclado-Televisao-Warrior-p-1-556232
+26,Microsoft All-in-One Media Keyboard USB PT,https://www.kuantokusta.pt/informatica/Perifericos/Teclados-e-Packs/Microsoft-All-in-One-Media-Keyboard-USB-PT-N9Z-00014-p-1-357515
+27,Trust Wireless Veza PT,https://www.kuantokusta.pt/informatica/Perifericos/Teclados-e-Packs/Trust-Wireless-Veza-PT-21211-p-1-455631
