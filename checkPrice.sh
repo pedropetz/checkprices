@@ -34,6 +34,8 @@ do
 	PRICE=`echo $line2 | cut -d "\"" -f6 | cut -d " " -f3 | sed -e "s/^store-line-s-//"`
 	PRICE2=`echo $line2 | cut -d "\"" -f8 | cut -d " " -f3 | sed -e "s/^store-line-s-//"`
 
+    #"
+
 	#echo "$STORE" "$PRICE" "$PRICE2"
 
 	if (( $(echo  "$BPRICE > $PRICE" | bc -l) ))
@@ -49,7 +51,6 @@ do
 
     rm "$ID".temp
 
-
     NEW=`echo \`date '+%Y%m%d'\` "$BSTORE $BPRICE"`
     OLDP=`cat $PRICEDIR"/$ID".price | tail -n 1 | cut -d " " -f3`
 
@@ -60,9 +61,6 @@ do
 
 
 done < "$ITEMSFILE"
-
-
-
 
 ############################ falta comparar o id da loja com a lista de ids de lojas
 ############################ adicionar excepção da Mbit
