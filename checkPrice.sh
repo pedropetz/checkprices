@@ -65,5 +65,5 @@ done < "$ITEMSFILE"
 
 
 ############################ falta comparar o id da loja com a lista de ids de lojas
-# adicionar excepção da Mbit
+############################ adicionar excepção da Mbit
 ############################ Validar ultimo registo de preço se não é igual
